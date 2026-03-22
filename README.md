@@ -26,7 +26,7 @@
 | 主畫面清單 (Main App) | 動態島：展開模式 (Expanded) |
 | :---: | :---: |
 | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-22 at 14 19 31" src="https://github.com/user-attachments/assets/cb46d3fb-1c79-4d7e-bef8-e90d415f5632" />
- |  |<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-22 at 14 23 04" src="https://github.com/user-attachments/assets/d458e0ab-4de8-45ce-98a2-ea0c1c7fca18" />
+ |  <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-22 at 14 23 04" src="https://github.com/user-attachments/assets/d458e0ab-4de8-45ce-98a2-ea0c1c7fca18" />
 
 
 | 鎖定畫面即時動態 (Lock Screen) | 動態島：緊湊模式 (Compact) |
